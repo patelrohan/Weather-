@@ -22,9 +22,6 @@
 		1C0A513D22EFEA810049A8DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C0A513B22EFEA810049A8DE /* Main.storyboard */; };
 		1C3AC2B522E858E500AD36B7 /* WeatherDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3AC2B422E858E500AD36B7 /* WeatherDataManager.swift */; };
 		1C3AC2B722EDE24C00AD36B7 /* LocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3AC2B622EDE24C00AD36B7 /* LocationViewController.swift */; };
-		1C5499CF22FA2D6E00062F00 /* 3. Weather.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1C5499CC22FA2D6E00062F00 /* 3. Weather.PNG */; };
-		1C5499D022FA2D6E00062F00 /* 1. Permission.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1C5499CD22FA2D6E00062F00 /* 1. Permission.PNG */; };
-		1C5499D122FA2D6E00062F00 /* 2. Location.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 1C5499CE22FA2D6E00062F00 /* 2. Location.PNG */; };
 		1C6C48D822F00B0200F35D31 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6C48D722F00B0200F35D31 /* Utilities.swift */; };
 		AD0390C9CD0475AF3A9FD0CA /* Pods_Weather__Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E1E43A0549670219EF1DA3E /* Pods_Weather__Tests.framework */; };
 		D793003974E5FDB1A3E54DCF /* Pods_Weather__.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BB84A2272DDAF8794062C85 /* Pods_Weather__.framework */; };
@@ -60,9 +57,6 @@
 		1C0A513B22EFEA810049A8DE /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		1C3AC2B422E858E500AD36B7 /* WeatherDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDataManager.swift; sourceTree = "<group>"; };
 		1C3AC2B622EDE24C00AD36B7 /* LocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationViewController.swift; sourceTree = "<group>"; };
-		1C5499CC22FA2D6E00062F00 /* 3. Weather.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3. Weather.PNG"; sourceTree = "<group>"; };
-		1C5499CD22FA2D6E00062F00 /* 1. Permission.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1. Permission.PNG"; sourceTree = "<group>"; };
-		1C5499CE22FA2D6E00062F00 /* 2. Location.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2. Location.PNG"; sourceTree = "<group>"; };
 		1C6C48D722F00B0200F35D31 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		3E1E43A0549670219EF1DA3E /* Pods_Weather__Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Weather__Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		50F7BCD0B032BFDE60DE5ED0 /* Pods-Weather++.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Weather++.release.xcconfig"; path = "Target Support Files/Pods-Weather++/Pods-Weather++.release.xcconfig"; sourceTree = "<group>"; };
@@ -96,7 +90,6 @@
 		1C01725922E7F6370005CAEF = {
 			isa = PBXGroup;
 			children = (
-				1C5499CB22FA2D5500062F00 /* Screenshots */,
 				1C01726422E7F6370005CAEF /* Weather++ */,
 				1C01727C22E7F63A0005CAEF /* Weather++Tests */,
 				1C01726322E7F6370005CAEF /* Products */,
@@ -211,16 +204,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		1C5499CB22FA2D5500062F00 /* Screenshots */ = {
-			isa = PBXGroup;
-			children = (
-				1C5499CD22FA2D6E00062F00 /* 1. Permission.PNG */,
-				1C5499CE22FA2D6E00062F00 /* 2. Location.PNG */,
-				1C5499CC22FA2D6E00062F00 /* 3. Weather.PNG */,
-			);
-			path = Screenshots;
-			sourceTree = "<group>";
-		};
 		4984EF4D4EE898BCFDD3BB9F /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -322,10 +305,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C0A513D22EFEA810049A8DE /* Main.storyboard in Resources */,
-				1C5499D122FA2D6E00062F00 /* 2. Location.PNG in Resources */,
-				1C5499D022FA2D6E00062F00 /* 1. Permission.PNG in Resources */,
 				1C01727022E7F63A0005CAEF /* Assets.xcassets in Resources */,
-				1C5499CF22FA2D6E00062F00 /* 3. Weather.PNG in Resources */,
 				1C0A513C22EFEA810049A8DE /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
