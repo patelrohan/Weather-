@@ -4,7 +4,7 @@ A simple, intuitive and elegant weather application that provides current weathe
 Demo link: https://youtu.be/kc6vWa3Em5A
 
 
-[3. Weather](https://drive.google.com/uc?export=view&id=16SD84NjO_mzeKoRpOI2JlL3-5RMGXkUq)
+[3. Weather](https://raw.githubusercontent.com/patelrohan/Weather-/blob/master/3.%20Weather.PNG)
 
 # Technical details: 
 
