@@ -4,7 +4,9 @@ A simple, intuitive and elegant weather application that provides current weathe
 Demo link: https://youtu.be/kc6vWa3Em5A
 
 
-[3. Weather](https://raw.githubusercontent.com/patelrohan/Weather-/master/weather3.PNG)
+![1. Allow Notification](https://raw.githubusercontent.com/patelrohan/Weather-/master/weather1.png)
+![2. Get Location](https://raw.githubusercontent.com/patelrohan/Weather-/master/weather2.png)
+![3. Weather](https://raw.githubusercontent.com/patelrohan/Weather-/master/weather3.png)
 
 # Technical details: 
 
