@@ -2,7 +2,8 @@
 A simple, intuitive and elegant weather application that provides current weather information.
 
 Demo link: https://youtu.be/kc6vWa3Em5A
-[Presentation explaining approach to the solution](https://docs.google.com/presentation/d/e/2PACX-1vTG5n0qfidCrZGYvDY4DANLcKTIWCTWzodq4ZJ4bjuW7EdKqAytpk955mmfYL8XJQpH6aFn2ZHlRCvg/pub?start=false&loop=false&delayms=3000#slide=id.p)
+
+Presentation explaining approach to the solution: [Link](https://docs.google.com/presentation/d/e/2PACX-1vTG5n0qfidCrZGYvDY4DANLcKTIWCTWzodq4ZJ4bjuW7EdKqAytpk955mmfYL8XJQpH6aFn2ZHlRCvg/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
 ![0. Launch Screen](https://raw.githubusercontent.com/patelrohan/Weather-/master/weather00.png)
 ![1. Allow Notification](https://raw.githubusercontent.com/patelrohan/Weather-/master/weather1.png)
